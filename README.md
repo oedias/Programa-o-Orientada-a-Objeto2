@@ -1,5 +1,5 @@
-# Programa-o-Orientada-a-Objeto2
-AV1 - Programação Orientada a Objeto JOSE ROMUALDO DA COSTA FILHO2
+# Programa-o-Orientada-a-Objeto
+AV1 - Programação Orientada a Objeto JOSE ROMUALDO DA COSTA FILHO
 
 using System;
 					
